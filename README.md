@@ -1,7 +1,7 @@
 
 # **Order Food Android Application**
 
-This project is created for CMPE 408 Final Project. Firstly, it opens QR Code reader and takes table number. Then, users can order food, call waiter and ask for check. Also, orders are saved in database. So, users can see their order history.
+This project is created for CMPE 408 Final Project. First, open the app and get the table number by scanning the QR code. The user can then order food and call the waiter for a check. In addition, orders are saved in a database that users can use to view their order history.
 
 ## ScreenShots
 <img src="screenshots/of_screenshot_1.png" width="20%"> <img src="screenshots/of_screenshot_2.png" width="20%"> <img src="screenshots/of_screenshot_3.png" width="20%"> <img src="screenshots/of_screenshot_4.png" width="20%"> <img src="screenshots/of_screenshot_5.png" width="20%"> <img src="screenshots/of_screenshot_6.png" width="20%"> <img src="screenshots/of_screenshot_7.png" width="20%"> <img src="screenshots/of_screenshot_8.png" width="20%">
